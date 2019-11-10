@@ -68,8 +68,10 @@ export const ProductTable = styled.table`
     input {
       border: 1px solid #ddd;
       border-radius: 4px;
+      text-align: center;
       color: #666;
       padding: 6px;
+      margin: 0;
       width: 50px;
     }
   }
